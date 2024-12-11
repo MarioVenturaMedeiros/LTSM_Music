@@ -24,7 +24,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
--Linux:
+- Linux:
 
 ```bash
 python3 -m venv venv
