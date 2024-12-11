@@ -7,7 +7,7 @@ Nesse projeto é feito a geração de musica utilizando inteligência artificial
 Para rodar o projeto, rode os comandos abaixo em um terminal:
 
 ```bash
-git clone x
+git clone https://github.com/MarioVenturaMedeiros/LTSM_Music
 ```
 
 Após clonar o repositório, entre no diretório e digite os seguintes comandos:
